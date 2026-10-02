@@ -1,8 +1,26 @@
 # TaskFlow
 
-TaskFlow is a Python backend project
-for task management.
+TaskFlow is a backend application for task management.
 
-## Project status
+## Project Description
 
-Initial development.
+The application will allow users to create,
+update, delete and manage tasks.
+
+## Planned Technologies
+
+- Python
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Redis
+- Docker
+- Pytest
+
+## Development Status
+
+The project is currently under development.
+
+## Author
+
+Kirill
